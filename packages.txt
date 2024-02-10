@@ -1,0 +1,6 @@
+Mama;Izlazului,2;3,4;false
+Tata;Dunarii,5;0,0;false
+Buni;Horea,3;1,2;false
+Frate;Mihn,3;1,1;true
+Sora;Closca,2;3,3;false
+Iubita;Crisan,3;3,3;false
